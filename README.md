@@ -1,4 +1,4 @@
-# Bộ công cụ hỗ trợ Light Novel
+# Bộ công cụ hỗ trợ dịch thuật Light Novel
 
 Tổng hợp các script Python dùng để tải, dọn dẹp, và gộp nội dung light novel từ các nguồn khác nhau như Baka-Tsuki, CClaw Translations, hoặc từ các file HTML/TXT có sẵn.
 
